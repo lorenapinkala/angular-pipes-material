@@ -1,0 +1,23 @@
+div.link{
+ 
+    height: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.link:hover{
+    background-color:#637074;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+a{
+    text-align:end;
+    width: 90%;
+}
+
+.menu{
+    height: 92vh;
+}
