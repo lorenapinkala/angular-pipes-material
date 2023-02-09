@@ -1,5 +1,7 @@
 # 1PFPinkala
 
+Este archivo forma parte de la primera entrega, se trabajo con boostrap y angular material para los estilos y se utilizo directivas y pipes personalizadas para dar el formato a la data. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.0.
 
 ## Development server
